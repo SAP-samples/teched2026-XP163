@@ -17,13 +17,20 @@ This repository contains the material for the SAP TechEd 2026 session called Ses
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces attendees to ways to explore SAP Business AI Platform and to estimate and execute your solutions.
+
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+The requirements to follow the exercises in this repository is access to SAP Disovery Center
 
 ## Exercises
+
+1. Open https://sap.com/disco
+2. Log-on
+3. Search for "teched"
+4. Start Mission "TechEd ..."
+
 
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
