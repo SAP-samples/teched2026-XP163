@@ -29,23 +29,8 @@ The requirements to follow the exercises in this repository is access to SAP Dis
 1. Open https://sap.com/disco
 2. Log-on
 3. Search for "teched"
-4. Start Mission "TechEd ..."
-
-
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
-
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
-
-  
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
+4. Start Mission "TechEd 2026 Hands-on Discovery Center"
+5. In the Mission overview, go to tab "Project Board" and follow the instructions, beginning with the upper left card.
 
 **IMPORTANT**
 
