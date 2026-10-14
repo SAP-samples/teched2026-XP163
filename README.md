@@ -13,7 +13,7 @@ Please edit this file as it is the primary description file for your project. Yo
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2026 session called XP163 SAP Business AI Platform: Explore, estimate, execute.
+This repository contains the material for the SAP TechEd 2026 session called XP163 - SAP Business AI Platform: Explore, estimate, execute.
 
 ## Overview
 
