@@ -22,7 +22,7 @@ This session introduces attendees to ways to explore SAP Business AI Platform an
 
 ## Requirements
 
-The requirements to follow the exercises in this repository is access to SAP Disovery Center
+Access to SAP Disovery Center
 
 ## Exercises
 
