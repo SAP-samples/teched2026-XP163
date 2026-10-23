@@ -29,7 +29,7 @@ Access to SAP Disovery Center
 1. Open https://sap.com/disco
 2. Log-on
 3. Search for "teched"
-4. Start Mission "TechEd 2026 Hands-on Discovery Center"
+4. Start Mission "Explore SAP Business AI Solutions with Discovery Center at TechEd 2026"
 5. In the Mission overview, go to tab "Project Board" and follow the instructions, beginning with the upper left card.
 
 **IMPORTANT**
