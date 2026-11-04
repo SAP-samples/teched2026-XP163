@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2026-XP163)](https://api.reuse.software/info/github.com/SAP-samples/teched2026-XP163)
+
 # XP163 - SAP Business AI Platform: Explore, estimate, execute
 
 
